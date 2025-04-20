@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tenthin/logoprofile.git/static/css/main.f1315272.css",
+    "main.js": "/tenthin/logoprofile.git/static/js/main.60f5ffe5.js",
+    "static/js/453.db46b076.chunk.js": "/tenthin/logoprofile.git/static/js/453.db46b076.chunk.js",
+    "static/media/profile.jpg": "/tenthin/logoprofile.git/static/media/profile.f766fd7cdc61d1ab0ba0.jpg",
+    "index.html": "/tenthin/logoprofile.git/index.html",
+    "main.f1315272.css.map": "/tenthin/logoprofile.git/static/css/main.f1315272.css.map",
+    "main.60f5ffe5.js.map": "/tenthin/logoprofile.git/static/js/main.60f5ffe5.js.map",
+    "453.db46b076.chunk.js.map": "/tenthin/logoprofile.git/static/js/453.db46b076.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1315272.css",
+    "static/js/main.60f5ffe5.js"
+  ]
+}
